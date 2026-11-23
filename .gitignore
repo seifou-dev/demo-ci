@@ -1,0 +1,30 @@
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+target/
+build/
+out/
+bin/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.project
+.classpath
+
+# System
+.DS_Store
+Thumbs.db
